@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/zwerb/node-shell#readme",
   "dependencies": {
-    "nodemon": "^2.0.6"
+    "nodemon": "^2.0.6",
+    "request": "^2.88.2"
   }
 }
